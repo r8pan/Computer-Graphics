@@ -1,0 +1,8 @@
+Compilation:
+	the normal one: make, then ./A4 sample.lua
+I completed A4 on gl35.
+
+Manual:
+I used Blinn-Phong lighting model, implementing no extra feature.
+The background has a fading scheme, which might not be very obvious.
+screenshot.png is included on the same level as A4.cpp

@@ -1,0 +1,10 @@
+Compilation:
+	the normal one: make, then ./A3 puppet.lua
+I completed A3 on gl42.
+
+Manual:
+The model I made is exactly the same as what is in the specification, no extra feature,
+so it should have sufficient joint compplexity.
+I included joint nodes in the structure, but I did not use them.
+I created a menu for picking instead of color matching.
+screenshot.png is included on the same level as A3.cpp
